@@ -1,3 +1,5 @@
-https://www.youtube.com/watch?v=GhQdlIFylQ8&t=7298s
+C# Tutorial - Full Course for Beginners- https://www.youtube.com/watch?v=GhQdlIFylQ8&t=7298s
 
-https://piotrgankiewicz.com/courses/becoming-a-software-developer/
+Becoming a software developer- https://piotrgankiewicz.com/courses/becoming-a-software-developer/
+
+C# od podstaw (.NET Core)- https://www.youtube.com/playlist?list=PLOHaqGKEYaykln8FR6kTovbJEgQ707EdH
