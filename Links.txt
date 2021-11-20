@@ -3,3 +3,7 @@ C# Tutorial - Full Course for Beginners- https://www.youtube.com/watch?v=GhQdlIF
 Becoming a software developer- https://piotrgankiewicz.com/courses/becoming-a-software-developer/
 
 C# od podstaw (.NET Core)- https://www.youtube.com/playlist?list=PLOHaqGKEYaykln8FR6kTovbJEgQ707EdH
+
+Zasady SOLID - niezbędnik programisty - https://www.youtube.com/watch?v=prb_s7HAnP4&ab_channel=FullstackDeveloper
+
+Pytania rekrutacyjne - https://skillstest.pl/library/tag/1
